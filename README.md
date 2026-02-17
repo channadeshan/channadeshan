@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I will post more later...
+I will modify this later...
 
 <!--
 **channadeshan/channadeshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
